@@ -1,9 +1,14 @@
+## About
+We've all been there. You notice you lost a follower and curiosity is building up. Who did it and why? Well the code can tell you who, the why is up to you to figure out.
+
+The code wont ask you for your username or password. Thats actually the benefit of using it and why I built it. Third party apps requires sensitive information such as your username and password. Your credentials can be sold and used to the highest bidder without you knowing so guess what. I found the work around.
+
 ## Prerequisites
-Uses a third party extension that downloads a list of instagram followers. Checks if the file is present and compares the original file with the downloaded file. Outputs any changes within that list, deletes both the old and new files and creates a new file with the updated list of users.
+Uses a third party extension that downloads a list of instagram followers. 
 
 You can download the thid party extension here: https://chrome.google.com/webstore/detail/export-list-of-followers/hcdbfckhdcpepllecbkaaojfgipnpbpb?hl=en-US
 
-Be advised of their policies as they may or may not store your account information. Just in case, you can create a secondary email for google chrome and a secondary instagram account so they do not have access to any personal or sensitive information. If you create a secondary instagram account, make sure that account follows the account you actually want to export followers from. (That is how the extension works. If you want to export a list of followers, it must be the account you are logged on to or an account you follow)
+Be advised of their policies as they may or may not store your account information just like the apps. Remember the workaround I talked about earlier? Just in case, you can create a secondary instagram account so they do not have access to any personal information. If you create a secondary instagram account, make sure that account follows the account you actually want to export followers from. (That is how the extension works. If you want to export a list of followers, it must be the account you are logged on to or an account you follow)
 
 
 ## Errors

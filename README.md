@@ -10,6 +10,10 @@ You can download the thid party extension here: https://chrome.google.com/websto
 
 Be advised of their policies as they may or may not store your account information just like the apps. Remember the workaround I talked about earlier? Just in case, you can create a secondary instagram account so they do not have access to any personal information. If you create a secondary instagram account, make sure that account follows the account you actually want to export followers from. (That is how the extension works. If you want to export a list of followers, it must be the account you are logged on to or an account you follow)
 
+## Be Aware!
+Make sure you select the correct download file. Notice how I selected 'Only Followers'? Follow the screenshot!
+
+![](ss.png)
 
 ## Errors
 * `"Exception in thread "main" java.io.FileNotFoundException: afterwards.csv (Is a directory)"` :

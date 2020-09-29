@@ -22,4 +22,4 @@ Make sure you select the correct download file. Notice how I selected 'Only Foll
 
 You can check by going to your downloads folder and reading the name of the file you downloaded. If you downloaded the correct file name, it should begin with "followed_by_user". If you downloaded the latter, it will begin with "All_users"
 
-2: If you did so by accident, a file named 'afterwards' will be created in the directory you downloaded the code in and you will have to delete it to continue.
+2: If you downloaded the incorrect file by accident, no worries. A file named 'afterwards' will be created in the directory you downloaded the code in and you will have to delete it to continue. After you have deleted the file, download the correct file (check screenshot above) and run the code again.

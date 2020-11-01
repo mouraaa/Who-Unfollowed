@@ -16,9 +16,17 @@ Be advised of their policies as they may or may not store your account informati
 If a user changes their name, the old username will show as someone who no longer follows you but in reality, they just changed their username! The new 'original' file will be updated with the newest username.
 
 #### NOTICE 2:
-Make sure you select the correct download file. Notice how I selected 'Only Followers'? Follow the screenshot!
+Make sure you select the correct download file. Notice how I selected 'Only Followers'? Afterwards, click 'Get List Of Users' and a new window will appear. Click 'Export to Excel'. Follow the screenshots!
 
-![](ss.png)
+![](ss1.png)
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+#### The New Window:
+
+![](ss2.png)
 
 ## Errors
 * `"Exception in thread "main" java.io.FileNotFoundException: afterwards.csv (Is a directory)"` :

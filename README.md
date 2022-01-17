@@ -16,7 +16,7 @@ Be advised of their policies as they may or may not store your account informati
 If a user changes their name, the old username will show as someone who no longer follows you but in reality, they just changed their username! The new 'original' file will be updated with the newest username.
 
 #### NOTICE 2:
-Make sure you select the correct download file. Notice how I selected 'Only Followers'? Afterwards, click 'Get List Of Users' and a new window will appear. Click 'Export to Excel'. Follow the screenshots!
+Make sure you select the correct download file. Notice how it automatically selects "following + followers?" Make sure to change that to "only followers." Afterwards, click 'Get List Of Users' and a new window will appear. Click 'Export to Excel'. Follow the screenshots! After you have followed the screenshots, just run the code and you'll know who unfollowed.
 
 ![](ss1.png)
 
